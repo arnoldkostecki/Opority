@@ -11,7 +11,7 @@ const webDesignTestimonials: Testimonial[] = [
     id: 1,
     name: "Digital Harmony",
     title: "Client Success Story",
-    testimonial: "Watch how Opority transformed our digital presence and helped us achieve remarkable results.",
+    testimonial: "We were lost and Opority gave us a plan and we secured a client by implementing their advice.",
     rating: 5,
     imagePlaceholder: "DH",
     embedUrl: "https://www.youtube.com/embed/rLz6OettNMI"
@@ -20,7 +20,7 @@ const webDesignTestimonials: Testimonial[] = [
     id: 2,
     name: "The English Project",
     title: "Client Success Story",
-    testimonial: "Discover how our partnership with Opority elevated our business to new heights.",
+    testimonial: "I didn&apos;t know how to get clients, we have an hour conversation and I closed three clients the day after.",
     rating: 5,
     imagePlaceholder: "EP",
     embedUrl: "https://www.youtube.com/embed/85UCdX1pbhs"
@@ -29,7 +29,7 @@ const webDesignTestimonials: Testimonial[] = [
     id: 3,
     name: "Subtyped.me",
     title: "Client Success Story",
-    testimonial: "See how Opority's web design expertise helped us create a stunning online presence that drives results.",
+    testimonial: "They grew our socials organically and we got 7 meetings! They were very nice to work with.",
     rating: 5,
     imagePlaceholder: "SM",
     embedUrl: "https://www.youtube.com/embed/bYeIWM1s3bU"
@@ -38,7 +38,7 @@ const webDesignTestimonials: Testimonial[] = [
     id: 4,
     name: "Main St Experts",
     title: "Client Success Story",
-    testimonial: "Working with Opority transformed our business. Watch our story and see the impact of professional web design.",
+    testimonial: "Arnold was so kind, he met with me everyday keeping me accountable and helped me with decisions.",
     rating: 5,
     imagePlaceholder: "MS",
     embedUrl: "https://www.youtube.com/embed/pZ1y_gdtkWk"
@@ -47,9 +47,9 @@ const webDesignTestimonials: Testimonial[] = [
     id: 5,
     name: "AI Solutions",
     title: "Client Success Story",
-    testimonial: "Opority delivered a website that perfectly captures our brand and engages our audience. Hear about our experience.",
+    testimonial: "The service has been top tier, they were quick.",
     rating: 5,
-    imagePlaceholder: "AI",
+    imagePlaceholder: "AS",
     embedUrl: "https://www.youtube.com/embed/5zSrJz8RPcY"
   }
 ];
