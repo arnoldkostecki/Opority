@@ -43,7 +43,7 @@ export default function ConsultingPage() {
                 <div className="flex items-center justify-center w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 rounded-full bg-primary/10 border-2 border-primary/20 flex-shrink-0">
                   <Grid3x3 className="w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 text-primary" />
                 </div>
-                <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold">Client Acquisition Consulting</h2>
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold">Let&apos;s Fix Your Client Problem</h2>
               </div>
               <div className="space-y-4 sm:space-y-5 text-muted-foreground px-2 sm:px-0">
                 <p className="leading-relaxed text-base sm:text-lg">
