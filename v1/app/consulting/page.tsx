@@ -94,19 +94,16 @@ export default function ConsultingPage() {
                 <div className="flex items-center justify-center w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 rounded-full bg-primary/10 border-2 border-primary/20 flex-shrink-0">
                   <Users className="w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 text-primary" />
                 </div>
-                <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold">1:1 Coaching</h2>
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold">Build a team that performs.</h2>
               </div>
               <div className="space-y-4 sm:space-y-5 text-muted-foreground px-2 sm:px-0">
                 <p className="leading-relaxed text-base sm:text-lg">
-                  Are you looking to become a key person of influence in your industry?
+                  I&apos;ll help you find, train, and manage commission only appointment setters and sales reps.
                 </p>
                 <p className="leading-relaxed text-base sm:text-lg">
-                  Our coaching is bespoke to you and your personal goals - we&apos;ll help you use the positive power of social media
-                  to impact your personal and business growth.
+                  You&apos;ll learn how to lead, track performance, and build a team that gets results without you micromanaging.
                 </p>
                 <p className="leading-relaxed text-base sm:text-lg">
-                  We&apos;ll give you all of our insight, tools and expertise, including how to build your own online community and a
-                  social media strategy that stops pointless posting and starts creating commercial impact.
                 </p>
               </div>
             </div>
@@ -120,18 +117,17 @@ export default function ConsultingPage() {
                 <div className="flex items-center justify-center w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 rounded-full bg-primary/10 border-2 border-primary/20 flex-shrink-0">
                   <ClipboardList className="w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 text-primary" />
                 </div>
-                <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold">Team Consultancy</h2>
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold">Get unstuck. Move forward.</h2>
               </div>
               <div className="space-y-4 sm:space-y-5 text-muted-foreground px-2 sm:px-0">
                 <p className="leading-relaxed text-base sm:text-lg">
-                  Perfect for your team - intensive, fast and actionable to deliver impact on your business quickly.
+                  If you don&apos;t know what to do next, we&apos;ll figure it out together.
                 </p>
                 <p className="leading-relaxed text-base sm:text-lg">
-                  We&apos;ll help your team understand how social media can create impact for your business and deliver results you&apos;re not currently getting.
+                  I&apos;ll break down your business, give you a simple plan, and hold you accountable until it&apos;s done.
                 </p>
                 <p className="leading-relaxed text-base sm:text-lg">
-                  We&apos;ve got a five-star track record of building small social media followings into national brands and we&apos;re ready to
-                  share our insight, tools and expertise with your team.
+                  You&apos;ll leave each call knowing exactly what to work on and what to ignore.
                 </p>
               </div>
             </div>
