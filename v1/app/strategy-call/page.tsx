@@ -217,7 +217,7 @@ function StrategyCallContent() {
                     <div>
                       <h3 className="text-base md:text-lg font-bold mb-1.5 md:mb-2 text-foreground">Ready to Get Started?</h3>
                       <p className="text-sm md:text-base lg:text-lg text-muted-foreground leading-relaxed">
-                        To start the process, just use our calendar to book a call. We&apos;ll discuss your needs and create a customized plan to help you grow your business.
+                        To start the process, just use our calendar to book a call.
                       </p>
                     </div>
                   </div>
