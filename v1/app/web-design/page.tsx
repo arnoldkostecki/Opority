@@ -20,7 +20,7 @@ const webDesignTestimonials: Testimonial[] = [
     id: 2,
     name: "The English Project",
     title: "Client Success Story",
-    testimonial: "I didn&apos;t know how to get clients, we have an hour conversation and I closed three clients the day after.",
+    testimonial: "I did not know how to get clients, we have an hour conversation and I closed three clients the day after.",
     rating: 5,
     imagePlaceholder: "EP",
     embedUrl: "https://www.youtube.com/embed/85UCdX1pbhs"
