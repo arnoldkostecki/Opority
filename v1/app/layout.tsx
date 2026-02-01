@@ -35,11 +35,18 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <Script id="ms-clarity" strategy="afterInteractive">{`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "o2q0y6lu2s");`}</Script>
+        {/* CookieYes Cookie Consent Banner */}
+        <Script
+          id="cookieyes"
+          type="text/javascript"
+          src="https://cdn-cookieyes.com/client_data/058ba3240756a396ca391d05b07d6407/script.js"
+          strategy="afterInteractive"
+        />
       </head>
       <body className={`${geistSans.className} antialiased`} suppressHydrationWarning>
         <ThemeProvider
           attribute="class"
-          defaultTheme="dark"
+          forcedTheme="dark"
           enableSystem={false}
           disableTransitionOnChange={false}
         >
