@@ -11,7 +11,7 @@ const defaultUrl = process.env.VERCEL_URL
 export const metadata: Metadata = {
   metadataBase: new URL(defaultUrl),
   title: "Opority | Full Service Digital Marketing Agency",
-  description: "Stop chasing leads. We build custom lead generation systems that attract, qualify, and deliver serious prospects straight to your calendar. Rated Top 3 Advertising & Marketing StartUp in the East Of England 2025.",
+  description: "We build and run paid ad systems that attract, qualify, and book high intent sales calls for service businesses.",
 };
 
 export const viewport = {
