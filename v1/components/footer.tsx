@@ -70,6 +70,9 @@ export function Footer() {
               <Link href="/terms" className="text-sm sm:text-base text-muted-foreground hover:text-primary transition-colors">
                 Terms of Use
               </Link>
+              <Link href="/refund-policy" className="text-sm sm:text-base text-muted-foreground hover:text-primary transition-colors">
+                Refund Policy
+              </Link>
               <Link href="/cookies" className="text-sm sm:text-base text-muted-foreground hover:text-primary transition-colors">
                 Cookie Policy
               </Link>
