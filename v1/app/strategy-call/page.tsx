@@ -47,6 +47,7 @@ function StrategyCallContent() {
   }
 
   const calendlyUrl = `https://calendly.com/arnoldkostecki/strategy-call?${calendlyParams.toString()}`;
+  const revenueAuditUrl = `https://calendly.com/nathanhigginsofficial-uxlg/revenue-audit?${calendlyParams.toString()}`;
 
   return (
     <main className="min-h-screen flex flex-col">
@@ -235,16 +236,25 @@ function StrategyCallContent() {
               </div>
             </div>
 
-            {/* RIGHT COLUMN - Calendly Embed */}
+            {/* RIGHT COLUMN - Calendly Embeds */}
             <div className="w-full lg:sticky lg:top-24 animate-slide-in-right order-2 lg:order-none">
-              <div className="bg-card border border-border rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
+              <div className="bg-card border border-border rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300 divide-y divide-border h-[700px] overflow-y-auto custom-scrollbar">
                 <iframe
                   src={calendlyUrl}
                   width="100%"
-                  height="700"
-                  style={{ border: 0, minHeight: '600px' }}
-                  className="rounded-2xl h-[600px] md:h-[700px]"
-                  title="Schedule a Strategy Call"
+                  height="800"
+                  style={{ border: 0, minHeight: '855px' }}
+                  className="w-full"
+                  title="Schedule a Strategy Call with Arnold"
+                />
+
+                <iframe
+                  src={revenueAuditUrl}
+                  width="100%"
+                  height="800"
+                  style={{ border: 0, minHeight: '855px' }}
+                  className="w-full"
+                  title="Schedule a Revenue Audit Call with Nathan"
                 />
               </div>
             </div>
